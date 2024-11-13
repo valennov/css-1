@@ -1,0 +1,23 @@
+
+
+* {
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {
+    background-color: rgb(52, 59, 58);
+  }
+
+  h1, h2, h3, h4 {
+
+    font-family:"Ubuntu", sans-serif;
+    color: yellow;
+  }
+
+  p, ul {
+    color: white;
+  }
+
+section {
+background-image: url(https://picsum.photos/2000) 
+}
